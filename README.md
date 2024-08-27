@@ -1,4 +1,4 @@
-# wheat-rea-migration-analysis
+# wheat-area-migration-analysis
 This repository hosts the main code for generating the RF model and figures for "Accelerating SDGs progress in Chinese wheat production through water-driven migration and sustainable intensification".
 
 R version 4.2.0 (https://cran.r-project.org/bin/windows/base/) was used to aggregate and analyze the modeling results.
